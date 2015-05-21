@@ -7,6 +7,14 @@ Michael White
 
 ## Employment
 
+*   **Abortive Startup**
+    
+    2014 - 2015
+
+    -   Wrote 6KLOC of a startup idea as a Single Page App + REST API, using
+        React, Flask, and SQLAlchemy, before realizing that I bit off more than
+        I could chew, technically and otherwise.
+
 *   **[Dimagi][0]** (Cambridge, MA)
 
     *Software Engineer*, September 2012 - December 2013
@@ -61,6 +69,8 @@ Michael White
     B.S. in Computer Science, May 2012
 
 ## Skills
+
+*   Modular application development, API design, data architecture
 
 *   Python (Django, Flask, SQLAlchemy), JavaScript (jQuery, Knockout, React),
     PHP, C, SQL, HTML, CSS, git, Linux
