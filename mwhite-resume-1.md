@@ -97,6 +97,10 @@ Michael White
     as standard SQL tables, without an ETL step, using Postgres views and
     partial indexes.  Built with SQLAlchemy.
 
+*   **What are you listening to?** \hfill <http://mwhite.github.io/listening>
+
+    A mashup of a YouTube playlist, interactive map, and Wikipedia. 
+
 ## Interests
 
 *   History, genealogy, music, linguistics
