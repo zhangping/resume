@@ -1,71 +1,83 @@
-Markdown Resumé
-===============
+张平的个人简历
+==============
+ 
+----
 
-[Markdown](https://raw.github.com/mwhite/resume/master/resume.md) -> [PDF](https://raw.github.com/mwhite/resume/master/resume.pdf), [HTML](http://mwhite.github.com/resume), and more
-<http://github.com/mwhite/resume>
+*   性别：男
+*   出生年月：1971/03
+*   手机号码：17701202318
+*   邮箱：dqzhangp@163.com
+*   博客：http://blog.sina.com.cn/dqzhangp
+*   Gihub：https://github.com/zhangping
 
-Interests
----------
+工作经历
+--------
 
-*   Creating beautiful resumés from simple Markdown documents
+*   **中国电信云公司**
 
+    *CDN研发总监*, 2015/02 - 至今
 
-Work Experience
----------------
+    -   基于DevOps理念组建研发测试团队
+    -   基于可以持续演进的原则设计 CDN 总体架构
+    -   针对悦me需求对自己开源的直播转码软件gstreamill进行修改
+    -   带领团队实现 GSLB、内容存储、缓存
+    -   CDN 上线稳定运营，并已支撑10省共60万用户，目前以每天1万户的速度增加
 
-*   **Word Processor** (Redmond, WA)
+*   **赛科世纪**
 
-    *Junior Resumé Maker*, 2006 - 2007
+    *架构师*, 2013/11 - 2015/02
 
-    -   Intermingled presentation and content
-    -   Styling was a pain, so either didn't do it or found a half-decent
-        template and didn't mess with it
+    -   组建 OTT 研发团队
+    -   带领团队完成了OTT系统的设计实现和离线转码系统的设计实现
 
-*   **\LaTeX\ + pdflatex**
+*   **玲珑视界股份有限公司**
 
-    *Senior Resumé Maker*, 2008 - 2010
+    *主任工程师*, 2012/09 - 2013/10
 
-    -   Edited verbose \LaTeX\ documents in a text editor
-    -   Mixed content and presentation to achieve pixel-perfection
-    -   Installed and configured the unusual TeX setups required by the
-        best-looking \LaTeX\ resumés
+    -   负责设计开发软件编码器 itvencoder
+    -   itvencoder 成功在泰国 MeTV 项目部署了180个频道
 
-*   **LinkedIn, StackOverflow Careers, vizualize.me, etc**
+*   **天柏宽带网络科技（北京）有限公司**
 
-    *Web Resumé Intern*, August 2010
+    *VOD系统研发经理*，2007/07 - 2012/08
 
-    -   Entered data, adapting to different data models and formatting
-        limitations
-    -   Attempted to customize PDF exports and remove default resumé elements,
-        to no avail
+    -   带领团队开发视频服务器，IPQAM资源管理，内容注入
+    -   带领团队开发 CDN 系统
+    -   基于以上产品的 VOD 系统在山东广电，山西广电，江苏广电上线运营
+    -   带领团队开发x86架构机顶盒的基于linux的操作系统。 
+    -   带领团队开发android机顶盒。
 
-*   **Markdown with Pandoc**
+*   **北京海尔信息科技有限公司**
 
-    *Resumé Architect*, February 2011 - present
+    *IPTV研发总监*，2006/06 - 2007/06
 
-    -   Write in one format (Markdown), convert to many formats (PDF, HTML, ODT,
-        DOCX, and more)
-    -   Style HTML output with CSS and PDF output with a custom \LaTeX\ header
-    -   Use a simple pre-processor to define per-format operations on the
-        Markdown input or its parts, such as moving contact information to the
-        top right of the page in both HTML and PDF output.
-    -   Use a text-based resumé when needed in a pinch
-    -   Use version control, including free hosting on Github
+    -   负责组建IPTV研发队伍 
+    -   负责发改委IPv6项目 
+    -   负责信息产业部AVS项目 
+    -   负责ST7100平台
 
+*   **浙江大华**
 
-Education
----------
+    *研发经理*，2003/07 - 2006/05
 
-*   **Github University** (World Wide Web)
+    -   双模机顶盒项目经理
+    -   rtsp,rtp,sdp等协议的实现
+    -   用rtp协议传输mpeg4及aac数据的实现 
+    -   用rtp协议传输mp3数据的实现
+    -   用rtp协议传输h.264数据的实现
 
-    *B.S. in Submodules*, May 2012
+*   **中软华泰公司**
 
+    *高级软件工程师*，2001/06 - 2003/06
 
-Skills
-------
+    -   安全网关的研发,负责替换软件加密算法为硬件加密算法
 
-*   Very experienced with Python, Markdown, \LaTeX
+教育经历
+--------
 
-*   Familiar with GNU Make, bash
+*   **中国科学技术大学**
 
+    *硕士研究生 计算机应用专业*，1998/09 -- 2002/01
+
+*   **大庆石油学院**
 
